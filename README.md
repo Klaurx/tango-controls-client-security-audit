@@ -1,6 +1,5 @@
 # cppTango Vulnerability Research
 
-**Author:** Klaurx the divine, Slowdive -- Ballad of the dead, Mt 
 **Target:** cppTango (https://github.com/tango-controls/cppTango)  
 **Codebase revision examined:** local clone of the main development branch, April 2025  
 **Research method:** Manual static analysis  
@@ -90,3 +89,9 @@ through their standard development process.
 All findings, analysis, and methodology in this repository are the original work
 of the author. See LICENSE for terms of use. Do not reproduce, republish, or claim
 these findings as your own work.
+
+**Author:** Klaurx the divine, 
+
+Slowdive -- Ballad of the dead, 
+
+Mt 
