@@ -1,0 +1,55 @@
+Copyright (c) 2025 klaurx
+
+All rights reserved.
+
+This repository and all of its contents, including but not limited to
+text, findings, analysis, methodology, code references, and supporting
+documentation, are the exclusive intellectual property of the author.
+
+The following terms govern all access to and use of this repository:
+
+1. VIEWING PERMITTED
+   You may read and view the contents of this repository for personal,
+   non-commercial, informational purposes only.
+
+2. NO REPRODUCTION
+   You may not copy, reproduce, republish, upload, post, transmit, or
+   distribute any part of this repository in any form or by any means,
+   electronic or mechanical, without prior written permission from the
+   author.
+
+3. NO DERIVATIVE WORKS
+   You may not modify, adapt, translate, or create derivative works based
+   on this repository or any of its contents.
+
+4. NO COMMERCIAL USE
+   You may not use this repository or any of its contents for commercial
+   purposes of any kind.
+
+5. NO ATTRIBUTION TRANSFER
+   The findings, vulnerability identifications, analysis, and methodology
+   contained in this repository are the original work of the author.
+   You may not claim, represent, or imply that any of these findings are
+   your own work. Any reference to these findings in academic papers,
+   security advisories, blog posts, conference talks, or any other medium
+   must include explicit attribution to the original author.
+
+6. NO SILENT INCORPORATION
+   You may not incorporate these findings into security tools, scanners,
+   advisories, databases, or any other product or service without explicit
+   written permission from the author and clear attribution.
+
+7. RESEARCH AND RESPONSIBLE DISCLOSURE
+   These findings were produced through original static analysis research.
+   The author has made a good-faith effort toward responsible disclosure
+   by publishing this research publicly. Any party wishing to act on these
+   findings for defensive purposes must do so with attribution.
+
+8. NO WARRANTY
+   This repository is provided for informational purposes only. The author
+   makes no warranties, express or implied, regarding the completeness,
+   accuracy, or fitness for any particular purpose of the information
+   contained herein.
+
+For permissions beyond the scope of this license, contact the author
+directly via the repository platform.
