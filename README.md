@@ -98,5 +98,3 @@ these findings as your own work.
 **Author:** Klaurx the divine, 
 
 Slowdive -- Ballad of the dead, 
-
-Mt 
