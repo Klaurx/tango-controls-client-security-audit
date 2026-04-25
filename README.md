@@ -83,9 +83,10 @@ encourages the cppTango maintainers to review these findings and address them
 through their standard development process.
 
 ---
-Note:
+***Note:***
 Since this is only source code audit, and no live PoC, we would like to aknowledge that the severity might change, the findings might be invalidated, there might be blockers we *might* have missed.
-Also, the bugs can behave differently operationaly.
+Also, the bugs can behave differently operationaly, or might "ignore" how this specific program is made to work.
+While we aknowledge all of that, we still thought it was worth documenting given the fact its dangereous engineering wise, intentional or not.
 
 ---
 ## Copyright and Attribution
